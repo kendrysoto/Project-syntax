@@ -1,0 +1,5 @@
+{
+    "config": {
+        "employeesUrlBase": "https://labsserviceemployee.azurewebsites.net/employees"
+    }
+}
